@@ -1,0 +1,1 @@
+$(document).ready(function(){var a=$("a#touch-menu"),b=$("ul.menu");$(a).on("click",function(a){a.preventDefault(),b.slideToggle()})});
